@@ -23,8 +23,8 @@
 - **完成任务**：使用html+css书写网页版个人简历
 - **估计完成时间**：4小时
 - **相关链接**：
-  - [仓库链接](https://github.com/Jody-Liang97/team-roster-26wiki)
-  - [主页链接](https://github.com/Jody-Liang97/team-roster-26wiki/blob/main/resume(final).html)
+  - [GitHub仓库](https://github.com/Jody-Liang97/team-roster-26wiki)
+  - [GitHub Pages链接](https://jody-liang97.github.io/)
 
 
 
